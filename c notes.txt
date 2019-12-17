@@ -1,0 +1,6 @@
+#-Strinzing operator.
+##-Token pasting operator.
+*fflush () is typically used for output stream only. Its purpose is to clear (or flush) the output buffer and move the buffered data to console (in case of stdout) or disk (in case of file output stream)
+*A temporary storage area is called buffer
+*A temporary storage area is called buffer. All standard input and output devices contain an input and output buffer. In standard C/C++, streams are buffered, for example in the case of standard input, when we press the key on keyboard, it isn’t sent to your program, rather it is buffered by operating system till the time is allotted to that program.
+*
