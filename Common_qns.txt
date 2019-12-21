@@ -1,0 +1,6 @@
+1.What is deferred state?
+2.What is retrospective meeting in agile methodology
+3.8 coins problem
+4.About sprint
+5.STLC and SDLC
+6.what are the meetings agile methodology consists of?

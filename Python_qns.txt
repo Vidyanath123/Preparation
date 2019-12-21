@@ -1,0 +1,86 @@
+1.What is self?
+
+Ans: 1. Defining an instance method. It is passed automatically as the first parameter when you call a method on an instance, and it is the instance on which 	the method was called.
+     2.	Referencing a class or instance attribute from inside an instance method. Use it you want to call a method or access a name (variable) on the 	instance the method was called on, from inside that method
+
+2.What is the use of constructor?
+
+Ans:	
+3.Is it necessary to send a arguements in the constructor?
+4.What are the python datatypes?
+5.What is the difference between list and tuple?
+6.How to add a member to the list with out using keywords?
+7.What is dictionary?
+8.How to read and write files word by word and line by line?
+9.How to pass command line arguements in python?
+10.How to convert the numbers into int,float?
+11.What is import?
+12.How to take the input from console?
+13.Difference between input and raw_input?
+14.Difference between ruby and python?
+15.Do we have concept Arrays in python?
+16.What is the use of tuples?
+17.Difference between python and c?
+18.What is the return value of print?
+19.Do we need to import any packages to work with print?
+20.Do we need to import any packages to work with command line arguements?
+21.Is multiple inheritance possible in python?
+22.Do we have concept blocks in python?
+23.How to handle the exceptions in python?
+24.Can we make methods in python to private,public and protected?
+25.Do we have concepts private,public and protected in python?
+26.Explain about oops concepts in python?
+27.Do we have multithreading concepts in python?
+28.How to write the data into file line by line?
+29.How to create the directory in python?
+30.How to change one directory to another directory?
+31.Can we access any file from another directory?
+32.What are the variable types in python?
+33.Do we have super() and this() concepts in python?
+34.Is recursion possible or not in python?
+35.Do we have inner class concept in python?
+36.what is the return value of input and raw_input?
+37.How to remove the duplicates in python?
+A:using set
+38.How to extract the username and password from the string=”vidyanaththisisnalla”.
+39.Read the data from the excel sheet and write into the notepad. 
+40.Read a lines from text file and write on to the another text file.
+41.Command line arguements in python?
+
+import sys
+print(sys.argv[0])
+print(sys.argv[1])
+To find the length:
+len(sys.argv)
+Command line arguements will be stored in the form of list in the sys.argv
+
+
+42.Variable number of arguements?
+We have args(*) and kwargs(**).
+Usage:
+method(*value)
+method1(**kwargs)
+*value stored in the form of tuples.
+**kwargs stored in the form of dictionaries.
+
+43.We can take the user input in the form of raw_input()
+
+44.Multiple assignments
+a=b=c=1
+a,b,c=1,2,3
+
+44. How to extract a string from the “vidyanathnallathisis”
+45.
+
+
+
+
+
+
+
+
+
+
+
+
+

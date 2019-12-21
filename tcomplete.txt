@@ -1,0 +1,7 @@
+1.How to do object synchronisation
+2.Name mapping
+3.Find,Find all,Find child
+4.Cross browser testing
+5.Data driven testing
+6.Stores
+7.Tested Apps
