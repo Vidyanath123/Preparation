@@ -1,0 +1,8 @@
+1.What is Bug life cycle?
+2.Can you give an example for Low severity and High severity bug?
+3.What are the challenges you faced in the Current project?
+4.What are the tools you are using for automation?
+5.Do you have experience in performance testing?
+6.What is STP?
+7.What is entry criteria and exit critiria in testing?
+8.What is deferred state in bug life cycle?
